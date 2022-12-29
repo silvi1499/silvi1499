@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @silvi1499
-- 👀 I’m interested in lear
+- 👀 I’m lear React Native
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on  easy proyects
 - 📫 How to reach me  email bermudezsilva92@gmail.com
